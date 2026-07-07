@@ -1,0 +1,64 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+
+# Logs
+*.log
+*.txt
+
+# App settings with secrets
+appsettings.Development.json
+appsettings.Production.json
+appsettings.*.json
+secrets.json
+*.secrets.json
+
+# Project-specific user file
+ProjectTracker.csproj.user
+
+# OS files (Windows/Mac)
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Publish profiles
+Properties/PublishProfiles/
+*.pubxml.user
